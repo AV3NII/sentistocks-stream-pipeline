@@ -1,0 +1,8 @@
+plotly
+pandas
+numpy
+pandas
+streamlit
+charset-normalizer
+google-cloud-bigquery
+pandas-gbq
